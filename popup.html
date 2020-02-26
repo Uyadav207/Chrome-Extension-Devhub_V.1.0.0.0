@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Devhub</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+sans" type="text/css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />   
+    <style>
+        html, body {
+            font-family: 'open Sans', 'sans-serif';
+            font-size: 14px;
+            margin: 0;
+            min-height: 100px;
+            padding: 0;
+            width: 380px;
+        }
+
+        h1 {
+            font-family: 'Menlo', 'monospace';
+            font-size: 22px;
+            font-weight: 400;
+            margin: 0;
+            color: #2f5876;
+        }
+
+        a:link, a:visited {
+            color: black;
+            outline: 0;
+            text-decoration: none;
+        }
+        img {
+            width:30px;
+        }
+        .modal_header {
+            align-items: center;
+            border-bottom: 0.5px solid #dadada;
+        }
+        .modal_content {
+            padding: 0 22px;
+        }
+        .modal_icons {
+            border-top: 0.5px solid #dadada;
+            height: 50px;
+            width:100%;
+        }
+        .logo {
+            padding: 16px;
+        }
+        .logo_icon {
+            vertical-align: text-bottom;
+            margin-right: 12px;
+        }
+        .version {
+            color: #444;
+            font-size: 18px;
+        }
+        .flex_container {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 22px;
+        }
+        .flex {
+            opacity: 1;
+            transition: opacity 0.2s ease-in-out;
+            width: 120px;
+        }
+        .flex:hover {
+            opacity: 0.4;
+        }
+        .flex .fa {
+            font-size: 40px;
+            color: #2f5876;
+        }
+
+    </style>
+    </head>
+    <body>
+      <div class="modal_header">
+          <h1 class="logo">
+              <img src="images/devhub.png" alt="devhub launcher" class = "logo-icon"> Devhub Launcher <span class = "version">(1.0.0)</span>
+          </h1>
+        </div>
+        <div class ="modal_content">
+          <p>Easily access Devhub Media content</p>
+        </div>
+        <div class = "modal_icons">
+            <div class="flex_container">
+                <div class="flex">
+                    <a href="https://www.github.com" target="_blank">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </div>
+                <div class="flex">
+                    <a href="https://www.youtube.com" target="_blank">
+                        <i class="fab fa-youtube"></i>
+                </a>
+                </div>
+                <div class="flex">
+                    <a href="https://www.linkedin.com" target="_blank">
+                        <i class="fab fa-linkedin-in"></i>
+                </a>
+                </div>
+                <div class="flex">
+                    <a href="https://www.behance.net" target="_blank">
+                        <i class="fab fa-behance"></i>
+                </a>
+                </div>
+                <div class="flex">
+                    <a href="https://www.hackerrank.com" target="_blank">
+                        <i class="fab fa-hackerrank"></i>   
+
+                </a>
+                </div>
+                <div class="flex">
+                    <a href="https://www.freecodecamp.org" target="_blank">
+                        <i class="fab fa-free-code-camp"></i>   
+
+                </a>
+                </div>
+            </div>
+        </div>
+        
+        <script src="popup.js" async defer></script>
+    </body>
+</html>

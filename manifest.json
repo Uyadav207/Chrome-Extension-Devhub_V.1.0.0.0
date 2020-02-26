@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "devhub",
+    "description": "Quick launch devhub",
+    "version": "1.0.0",
+    "icons": {"126": "icon_126.png"},
+    "browser_action":{
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permission": ["activeTab"]
+}
