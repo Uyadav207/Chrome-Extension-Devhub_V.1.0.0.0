@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "devhub",
     "description": "Quick launch devhub",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icons": {"126": "icon_126.png"},
     "browser_action":{
         "default_icon": "icon.png",
