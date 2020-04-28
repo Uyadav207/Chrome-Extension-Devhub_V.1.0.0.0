@@ -1,3 +1,62 @@
+<p align="center">
+  <a>
+    <img src="https://img.icons8.com/plasticine/100/000000/chrome.png"/> 
+  </a>
+</p>
+<h1 align="center">
+   Devhub Launcher..
+</h1>
+
+<p align="center">
+  <a href="https://github.com/Uyadav207/weatherly/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="weatherly-react-app: Weatherly is released under the MIT license." />
+  </a>
+  <a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Uyadav207?label=Follow&style=social">
+ </a>
+</p>
+
+Devhub will keep you connected with your daily social activities. All Developer's favourite website can be visited in one go. Update will be done as per the customer's reviews and wants.
+
+### Chrome Extensions Download Link :
+
+[Download Chrome Extension](https://chrome.google.com/webstore/detail/devhub/cloppmnkdcaciffmfejhjighlgggbfak)
+
+
+### About Contributing
+
+* use github Desktop **RECOMMENDED** ..
+* **Fork** the Repository and star it 😁👏👏👏 😜😜.
+* git clone https://github.com/Uyadav207/Pimo.git  
+* Type `code .` for [VsCode](https://code.visualstudio.com/) 
+  * `atom .` for [Atom](https://atom.io/)
+* Update `content.js` for any javascript manipulations.
+* Save everything.
+* `git checkout -b **<name-your-branch>** origin/**<name-of-remote-branch>**` for Checkout all changes ... 
+* now push eveything Up....
+* Raise a merge-Request.. ✔✔✔
+
+# Download Pimo 
+
+* Checkout the Link : [PIMO:Chrome-Extension](https://chrome.google.com/webstore/detail/pimo/gcigjkpkbodoajlpcgjmplhodcjmdbfc?utm_source=gmail) 
+![](https://github.com/Uyadav207/Pimo/tree/master/pimo/images/heart.png)
+
+# After Downloading Appeareance 💖💖❤ ✔✔✔
+* Check your status bar, if it seems like this then U did a great Job else retry ... Or Raise an issue or bug.
+<img src="./pimo/images/StatusBarPimo.png">
+
+
+# ScreenShots AfterEffects 👏👏👏
+<img src="./pimo/images/Linkedin.png">
+<img src="./pimo/images/calender.png">
+<img src="./pimo/images/GoogleCalender.png">
+
+
+💖💖❤✔
+# ThankYou for Downloading...💖
+<img src="./pimo/images/heart.png" width="200" height ="200">
+
 ### Chrome-Extension-Devhub_V.1.0.0.0
 Devhub will keep you connected with your daily social activities. 
 
